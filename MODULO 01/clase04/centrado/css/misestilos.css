@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+
+.caja-centro{
+	width: 900px;
+	height: 500px;
+	background-color: #ff0000;
+}
+
+.titulo{
+	background-color: red;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
